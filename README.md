@@ -40,23 +40,14 @@ Hi there! I'm **Faizan Faisal**, a Computer Science undergrad (Batch of 2027) pa
 
 ## 🔧 Tech Stack
 
-### 🖥️ Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages**  
+`Python` `Java` `C++`
 
-### 🧰 Frameworks & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Frameworks & Tools**  
+`React` `FastAPI` `Tailwind CSS` `Git` `XAMPP` `MySQL` `SQL`
 
-### 🤖 AI Tools  
-![CrewAI](https://img.shields.io/badge/CrewAI-1A1A1A?style=for-the-badge&logo=starship&logoColor=white)  
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF4C4C?style=for-the-badge&logo=google&logoColor=white)
+**AI Tools**  
+`CrewAI` `RAG Pipelines`
 
 ---
 
